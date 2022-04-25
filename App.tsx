@@ -13,7 +13,7 @@ import React from 'react';
 import {
   Colors,
 } from 'react-native/Libraries/NewAppScreen';
-import { Counter } from './app/shared/components/counter';
+import Counter  from "@jakemott/reactshared";
 
 
 
