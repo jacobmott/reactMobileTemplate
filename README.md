@@ -16,9 +16,13 @@ https://reactnative.dev/docs/environment-setup
 
 Make sure you have a ios/android emulator running, or a device connected via usb (adb devices) 
 
-Then run 
-npm install
-yarn start  (to start the metro server)
-then in another terminal .. run 
+Then run  
+
+npm install  
+
+yarn start  (to start the metro server)  
+
+then in another terminal .. run  
+
 yarn android (or ios)
 
