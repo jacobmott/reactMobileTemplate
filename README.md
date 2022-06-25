@@ -9,7 +9,7 @@ tutorial on this concept of sharing code between web and mobile react apps
 https://www.youtube.com/watch?v=2wOvhDtqsW8 Web and mobile apps using React Native Web with Robin Heinze
 
 
-##Setup
+## Setup
 make sure to install android studio
 Follow these steps for your OS
 https://reactnative.dev/docs/environment-setup
